@@ -1,6 +1,6 @@
 {
   "name": "pdfmake",
-  "version": "0.1.37",
+  "version": "0.1.38",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
   "directories": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "iconv-lite": "^0.4.23",
     "linebreak": "^0.3.0",
-    "pdfkit": "^0.8.3"
+    "pdfkit": "Zetatango/pdfkit"
   },
   "devDependencies": {
     "brfs": "^2.0.0",
